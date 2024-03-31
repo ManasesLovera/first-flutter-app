@@ -206,6 +206,5 @@ class FavoritesPage extends StatelessWidget {
           )
       ]
     );
-
   }
 }
